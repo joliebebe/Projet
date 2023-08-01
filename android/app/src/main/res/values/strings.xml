@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">smartParking</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBiaEjR1glPH7iSFaAMfTSffrLeh1iHk-M</string>
+</resources>

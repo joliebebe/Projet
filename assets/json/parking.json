@@ -1,0 +1,29 @@
+[
+        {  
+          "parking_id":"01",
+          "avatar":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parkhaus_01_KMJ.jpg/330px-Parkhaus_01_KMJ.jpg",
+          "name":"Adjamé gare nord",
+          "address":"Gare Nord, Adjamé, Abidjan",
+          "lat": 5.3569966663856246,
+          "lon": -4.027355581792879,
+          "capacity":20
+        },
+        {  
+          "parking_id":"02",
+          "avatar":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Parkhaus_Rheinauhafen.jpg/330px-Parkhaus_Rheinauhafen.jpg",
+          "name": "Nom Hotel Abidjan Plateau",
+          "address": "Nom Hotel Abidjan Plateau",
+          "lat": 5.324063,
+          "lon": -4.015106,
+          "capacity":5
+        },
+        {  
+          "parking_id":"03",
+          "avatar":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Underground_parking_in_one_of_the_shopping_centers._Ulan-Ude.jpg/330px-Underground_parking_in_one_of_the_shopping_centers._Ulan-Ude.jpg",
+          "name": "Marcory cap-sud",
+          "address": "Galerie Cap Sud, Bd Valéry Giscard d'Estaing",
+          "lat": 5.298208,
+          "lon": -3.985913,
+          "capacity":20
+        }
+]
